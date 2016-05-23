@@ -24,7 +24,13 @@
 5..x=0,y=0.2,vx/vy=pi  
 ![](https://github.com/Wangzhengwhu/Homework-10/blob/master/pi.png)  
 [计算程序2](https://github.com/Wangzhengwhu/Homework-10/blob/master/2.py)  
+可以描绘出圆形边界轨迹的相图  
+![](https://github.com/Wangzhengwhu/Homework-10/blob/master/%E5%9C%86%E8%BE%B9%E7%95%8C%E7%9B%B8%E5%9B%BE.png)  
 [计算程序3](https://github.com/Wangzhengwhu/Homework-10/blob/master/3.py)    
+在磁场中运动的轨迹，给定初始条件 x=1.2,y=0,vx/vy=1/2 ,T=0.9  
+
+![](https://github.com/Wangzhengwhu/Homework-10/blob/master/%E5%9C%86%E8%BE%B9%E7%95%8C%E7%9B%B8%E5%9B%BE.png)  
+
 
 
 ##致谢
